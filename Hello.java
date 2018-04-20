@@ -7,5 +7,6 @@ class Hello{
 
 		System.out.println("collide");
 		System.out.println("collide2");
+		System.out.println("DEVDEVDEV");
 
 	}
